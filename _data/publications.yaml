@@ -1,8 +1,14 @@
 papers:
 
+  - title: "MEnsA: Mix-up Ensemble Average for Unsupervised Multi Target Domain Adaptation on 3D Point Clouds"
+    authors: "<b>Ashish Sinha</b>, Jonghyun Choi"
+    venue: "in Review. Pre-print soon."
+    paper_pdf: "#"
+    selected: y
+
   - title: "Deep Learning based Dimple Segmentation for Quantitative Fractography."
     authors: "<b>Ashish Sinha</b>, K.S. Suresh"
-    venue: "Industrial Machine Learning Workshop, ICPR. 2020. <br> <b>Poster Only</b> at IC-MSE. 2021."
+    venue: "Industrial Machine Learning Workshop, ICPR. 2020. <b>Spotlight</b>"
     paper_pdf: "https://arxiv.org/abs/2007.02267"
     selected: y
 
