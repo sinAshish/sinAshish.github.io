@@ -1,0 +1,25 @@
+papers:
+
+  - title: "Deep Learning based Dimple Segmentation for Quantitative Fractography."
+    authors: "<b>Ashish Sinha</b>, K.S. Suresh"
+    venue: "Industrial Machine Learning Workshop, ICPR. 2020. <br> <b>Poster Only</b> at IC-MSE. 2021."
+    paper_pdf: "https://arxiv.org/abs/2007.02267"
+    selected: y
+
+  - title: "Ntire 2020 challenge on image demoireing: Methods and results."
+    authors: "Yuan et. al., <b>Ashish Sinha</b>"
+    venue: "CVPR'20: NTIRE Challenge on Image Demoireing. 2020. (Rank 13)"
+    paper_pdf: "https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Yuan_NTIRE_2020_Challenge_on_Image_Demoireing_Methods_and_Results_CVPRW_2020_paper.html"
+    selected: n
+
+  - title: "Multi-scale self-guided attention for medical image segmentation."
+    authors: "<b>Ashish Sinha</b>, Jose Dolz"
+    venue: "JBHI: Journal of Biomedical and Health Informatics. 2020."
+    paper_pdf: "https://arxiv.org/pdf/1906.02849.pdf"
+    selected: y
+
+  - title: "GA-GAN: CT reconstruction from Biplanar DRRs using GAN with Guided Attention."
+    authors: "<b>Ashish Sinha</b>, Yuichiro Hirano, Yohei Sugawara"
+    venue: "NeurIPS'19, Workshop on Medical Imaging Meets NeurIPS. 2019."
+    paper_pdf: "https://arxiv.org/pdf/1909.12525.pdf"
+    selected: y

@@ -1,0 +1,48 @@
+experiences:
+- place: "GIST Computer Vision Lab"
+  time: "Dec 2020 - now"
+  title: "Research Intern"
+  subtitle: "Advisor: Jonghyun Choi"
+  category: "school"
+
+- place: "Wells Fargo"
+  time: "Aug 2020 - now"
+  title: "Program Associate B"
+  subtitle: "Corporate Risk"
+  category: "work"
+
+- place: "Radlearn AI"
+  time: "Summers 2020"
+  title: "Data Scientist, Intern"
+  subtitle: ""
+  category: "school"
+
+- place: "Preferred Networks"
+  time: "Summer 2019"
+  title: "Research Intern"
+  subtitle: "Advisors: Yohei Sugawara, Yuichiro Hirano"
+  category: "work"
+
+- place: "ETS Montreal"
+  time: "Spring 2019"
+  title: "Research Intern"
+  subtitle: "Advisor: Jose Dolz"
+  category: "school"
+
+- place: "Ryelore AI"
+  time: "Fall 2018"
+  title: "Data Scientist, Intern"
+  subtitle: ""
+  category: "work"
+
+- place: "Antriex Technology"
+  time: "Summers 2018"
+  title: "Data Analyst, Intern"
+  subtitle: ""
+  category: "school"
+
+- place: "Indian Institute of Technology Roorkee"
+  time: "2016 - 2020"
+  title: "B.Tech. Student"
+  subtitle: "Metallurgical and Materials Engineering <br/> First Division"
+  category: "work"

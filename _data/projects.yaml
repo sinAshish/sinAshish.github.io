@@ -1,0 +1,59 @@
+projects:
+  - title: "Biomedical Image Segmentation"
+    subtitle: "Multi-scale self-guided attention for image segmentation"
+    thumbnail: "assets/projects/2019_ms/thumbnail.png"
+    url: "https://github.com/sinAshish/Multi-Scale-Attention"
+    selected: y
+
+  
+  - title: "Single Image Deraining"
+    subtitle: "Semi-supervised learning with progressive networks [WIP]"
+    thumbnail: "assets/projects/2020_derain/thumbnail.png"
+    url: "#"
+    selected: n
+
+  
+  - title: "Defect Detection at Macro and Micro Scale"
+    subtitle: "Deep Dimple and surface defect segmentation"
+    thumbnail: "assets/projects/2020_btp/thumbnail.png"
+    url: "https://drive.google.com/file/d/1OA-1Vg3It7Jl7pmfxFiPkKYXT3Nb4ngH/view?usp=sharing"
+    selected: y
+
+  - title: "Single Image Demoireing"
+    subtitle: "CVPR 2020 NTIRE Challenge"
+    thumbnail: "assets/projects/2020_demoire/thumbnail.png"
+    url: "https://data.vision.ee.ethz.ch/cvl/ntire20/"
+    selected: y
+
+
+  - title: "PetFinder.My Adoption Challenge"
+    subtitle: "Kaggle Competition for predicting rate of pets adoption [Bronze]"
+    thumbnail: "assets/projects/kaggle_pet/pet.png"
+    url: "https://www.kaggle.com/c/petfinder-adoption-prediction/leaderboard"
+    selected: n
+
+
+  - title: "Neural Arithmetic Logic Unit"
+    subtitle: "Keras Implementation of DeepMind paper"
+    thumbnail: "assets/projects/2018_nalu/thumbnail.png"
+    url: "https://github.com/sinAshish/NALU-Keras"
+    selected: n
+
+  - title: "Quora Insincere Question Classification"
+    subtitle: "Kaggle Competition on detecting toxic content in social media"
+    thumbnail: "assets/projects/kaggle_q/quora.png"
+    url: "https://www.kaggle.com/c/quora-insincere-questions-classification"
+    selected: n
+
+  - title: "Rough Sketch Simplification"
+    subtitle: "Pytorch implementation for rough sketch cleanup using deep learning"
+    thumbnail: "assets/projects/2018_sketch/thumbnail.png"
+    url: "https://github.com/sinAshish/Rough-Sketch-Simplification-Using-FCNN"
+    selected: n
+
+  - title: "Gaana Downloader"
+    subtitle: "Download songs from gaana.com for Free"
+    thumbnail: "assets/projects/2020_derain/thumbnail.png"
+    url: "#"
+    selected: n
+  
